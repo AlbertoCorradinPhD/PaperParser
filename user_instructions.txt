@@ -1,0 +1,13 @@
+# INSTRUCTIONS
+1. **Analyze the Content**:
+- Identify its purpose, key points, and intended tone.
+2. **Consider examples from the target author**:
+- Consider the provided examples, written by human author: {examples}.
+- In the provided examples, identify the main traits characterizing the writing style of the human author, included perplexity, style-embedding alignment, linguistic alignment, etc.
+3. **Draft the Output**:
+- Rewrite the content based on the main traits characterizing the writing style of the human author, if some examples are provided.
+- Use high burstiness by mixing short and long sentences.
+- Enhance perplexity with intricate sentence patterns and expressive vocabulary.
+4. **Refine the Output for a scientific audience**:
+- Replace generic terms with expressive alternatives (e.g., "important" → "pivotal").
+- Refine your writing product with scientific tone and technical precision adequate for a scientific audience.
