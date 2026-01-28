@@ -1,4 +1,7 @@
 # PaperParser
+Corradin A., F. Ciccarese F., V. Raimondi V., L. Urso L., Ciminale V., Silic-Benussi M.. PaperParser: a bioinformatic tool that synthesizes scientific literature through advanced AI techniques, enhancing scholarly insights while mimicking human-like expression.  Proceedings of the 11th World Congress on New Technologies (NewTech'25). Paris, France, August, 2025. DOI: 10.11159/icbb25.161 
+
+# Use
 From Linux shell:
 1) create new Python virtual environment
 2) install Scrapy
